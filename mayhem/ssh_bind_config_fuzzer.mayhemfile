@@ -1,0 +1,4 @@
+project: PROJECT
+target: ssh_bind_config_fuzzer
+cmds:
+- cmd: /out/ssh_bind_config_fuzzer
